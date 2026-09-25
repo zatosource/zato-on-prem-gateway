@@ -1,6 +1,6 @@
-# Zato On-premises Gateway
+# Zato On-prem Gateway
 
-* The Zato On-premises Gateway connects a Zato environment running in a public cloud to systems
+* The Zato On-prem Gateway connects a Zato environment running in a public cloud to systems
 that running on private networks.
 
 * Downloads are [here](https://github.com/zatosource/zato-on-prem-gateway/releases).
